@@ -1,0 +1,12 @@
+
+html {
+  background-color: beige;
+  text-align: center;
+  color: hotpink;
+  text-shadow: 1px 1px 1px black;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 3em;
+}
